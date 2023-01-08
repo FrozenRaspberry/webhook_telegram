@@ -1,2 +1,2 @@
 # webhook_telegram
-An example that accept webhook and post message to a telegram bot.
+This is a demo that accepts webhook calls and posts the content to a telegram bot.
